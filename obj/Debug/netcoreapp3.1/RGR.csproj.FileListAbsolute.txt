@@ -1,0 +1,16 @@
+D:\Projects\RGR\bin\Debug\netcoreapp3.1\RGR.exe
+D:\Projects\RGR\bin\Debug\netcoreapp3.1\RGR.deps.json
+D:\Projects\RGR\bin\Debug\netcoreapp3.1\RGR.runtimeconfig.json
+D:\Projects\RGR\bin\Debug\netcoreapp3.1\RGR.runtimeconfig.dev.json
+D:\Projects\RGR\bin\Debug\netcoreapp3.1\RGR.dll
+D:\Projects\RGR\bin\Debug\netcoreapp3.1\RGR.pdb
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.csproj.AssemblyReference.cache
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.Form1.resources
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.csproj.GenerateResource.cache
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.AssemblyInfoInputs.cache
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.AssemblyInfo.cs
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.csproj.CoreCompileInputs.cache
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.dll
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.pdb
+D:\Projects\RGR\obj\Debug\netcoreapp3.1\RGR.genruntimeconfig.cache
